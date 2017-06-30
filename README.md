@@ -115,3 +115,4 @@ A: 消息为一个字典，必有三个键：NickName、Content、MsgType，对�
 [issue#2]: https://github.com/littlecodersh/danmu/issues/2
 [gitter_picture]: https://badges.gitter.im/littlecodersh/danmu.svg "gitter"
 [gitter]: https://gitter.im/littlecodersh/danmu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+de1
